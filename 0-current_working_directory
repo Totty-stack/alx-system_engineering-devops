@@ -1,1 +1,2 @@
-pwd 0x00-shell_basics
+#!/bin/bash
+dirname "$(realpath $0)"
